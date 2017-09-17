@@ -22,8 +22,8 @@
     "command-line-args": "^4.0.2",
     "command-line-usage": "^4.0.0",
     "console-stamp": "^0.2.5",
-    "cr-messages": "j4qfrost/cr-messages",
+    "cr-messages": "github:j4qfrost/cr-messages",
     "jsome": "^2.3.26",
-    "tweetnacl": "^0.14.5"
+    "tweetnacl": "^1.0.0"
   }
 }
